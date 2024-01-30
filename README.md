@@ -1,4 +1,4 @@
-Certainly! In C#, operators are symbols that perform operations on one or more operands. Here are some common types of operators in C#:
+In C#, operators are symbols that perform operations on one or more operands. Here are some common types of operators in C#:
 
 1. **Arithmetic Operators**: Used for basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus.
 
